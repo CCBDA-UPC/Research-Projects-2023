@@ -15,13 +15,13 @@ A final objective of this assignment is to be able to **share the information a
 
 ## Instructions to deliver the assigment
 
-For **every team of 4 people**, **two of them** will be preparing a tutorial on a  process. It can be something that they are using for their course project or that they are interested in digging a bit further.
+For **every team of 5 people**, **two of them** will be preparing a tutorial on a  process. It can be something that they are using for their course project or that they are interested in digging a bit further.
 
 To have more variety on the topics covered, *please contact your teacher before beginning preparing the tutorial*.
 
 Groups of two people need to create a folder in their project repo named "research" and then a  `"/research/tutorial/README.md"` file with the explanations, images, pieces of code, etc. similar to the ones used for your laboratory sessions.
 
-The **two remaining** team members will be assigned the two tutorials elaborated by the other teams. They will need to follow the tutorial and submit evidence of their job in `"/research/response1/README.md"` and `"/research/response2/README.md"` including **feedback for the authors** and **their grade** on how well elaborated and interesting they find it.
+The **remaining** team members will be assigned the two tutorials elaborated by the other teams. They will need to follow the tutorial and submit evidence of their job in `"/research/response1/README.md"` and `"/research/response2/README.md"` including **feedback for the authors** and **their grade** on how well elaborated and interesting they find it.
 
 Since each team will only be able to experiment with two assigments the day of the presentation each team will be explaining their topic to the whole class.
 
