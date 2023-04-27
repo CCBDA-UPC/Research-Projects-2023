@@ -15,7 +15,7 @@ A final objective of this assignment is to be able to **share the information a
 
 ## Instructions to deliver the assigment
 
-For **every team of 5 people**, **two of them** will be preparing a tutorial on a  process. It can be something that they are using for their course project or that they are interested in digging a bit further.
+For **every team of 5 people**, **three of them** will be preparing a tutorial on a  process. It can be something that they are using for their course project or that they are interested in digging a bit further.
 
 To have more variety on the topics covered, *please contact your teacher before beginning preparing the tutorial*.
 
@@ -31,16 +31,17 @@ Add a file `"/research/authors.json"`
 { 
     "creators" : [ 
         "NAME1@est.fib.upc.edu",
-        "NAME2@est.fib.upc.edu"
+        "NAME2@est.fib.upc.edu",
+        "NAME3@est.fib.upc.edu"
         ],
     "validators": [
-        "NAME3@est.fib.upc.edu",
         "NAME4@est.fib.upc.edu",
+        "NAME5@est.fib.upc.edu",
         ]
 }
 ```
 
-The teacher will evaluate the tutorials based on the documentation, presentation and the feedback offered by the groups of 2 students evaluating.
+The teacher will evaluate the tutorials based on the documentation, presentation and the feedback offered by the students evaluating.
 Once all tutorials evaluated, they will be included in this repository to make them available for everyone.
 
 **Grade**:
