@@ -52,9 +52,14 @@ Once all tutorials evaluated, they will be included in this repository to make t
 ## Tutorials and assignment
 
 
-| Team      |                  Presentation                  | Assignment 1 | Assignment 2 |
-|:----------|:----------------------------------------------:|:------------:|:------------:|
-/ [Docker](./tutorial-1/README.md)/ Deploying Federated Learning on Docker Containers Across Multiple Servers in AWS /A / B/
+| Team   |                                                Presentation                                                | Assignment 1 | Assignment 2 |
+|:-------|:----------------------------------------------------------------------------------------------------------:|:------------:|:------------:|
+| Team-1 | [Deploying Federated Learning on Docker Containers Across Multiple Servers in AWS](./tutorial-1/README.md) |    Team-2    |    Team-3    |
+| Team-2 |                                         [](./tutorial-2/README.md)                                         |    Team-3    |    Team-4    |
+| Team-3 |                                         [](./tutorial-2/README.md)                                         |    Team-4    |    Team-5    |
+| Team-4 |                                         [](./tutorial-2/README.md)                                         |    Team-5    |    Team-6    |
+| Team-5 |                                         [](./tutorial-2/README.md)                                         |    Team-6    |    Team-1    |
+| Team-6 |                                         [](./tutorial-2/README.md)                                         |    Team-1    |    Team-2    |
 
 
 
