@@ -25,8 +25,8 @@ elif range_selected == 'Top 69':
 elif range_selected == 'Top 100':
     n = 100
 
-os.environ['SPOTIPY_CLIENT_ID'] = 'e12c85ea786949cdb7d9df050b6f8f88'
-os.environ['SPOTIPY_CLIENT_SECRET'] = 'add4eb11b00a40d9a01a2908586d70c7'
+os.environ['SPOTIPY_CLIENT_ID'] = '--SEE-RACO--'
+os.environ['SPOTIPY_CLIENT_SECRET'] = '--SEE-RACO--'
 os.environ['SPOTIPY_REDIRECT_URI'] = 'http://localhost:8080'
 
 scope = "user-library-read"
