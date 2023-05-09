@@ -33,7 +33,7 @@ they are using for their course project or that they are interested in digging a
 
 To have more variety on the topics covered, *please contact your teacher before beginning preparing the tutorial*.
 
-The **creators** need to add a folder in their project repo named "research" and then
+The **creators** team members need to add a folder in their project repo named "research" and then
 a  `"/research/tutorial/README.md"` file with the explanations, images, pieces of code, etc. similar to the ones used
 for your laboratory sessions.
 
