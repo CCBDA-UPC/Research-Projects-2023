@@ -73,14 +73,14 @@ everyone.
 
 ## Tutorials and assignment
 
-| Team   |                                                Presentation                                                | Assignment 1 | Assignment 2 |
-|:-------|:----------------------------------------------------------------------------------------------------------:|:------------:|:------------:|
-| Team-1 | [Deploying Federated Learning on Docker Containers Across Multiple Servers in AWS](./tutorial-1/README.md) |    Team-2    |    Team-3    |
-| Team-2 |                                 [Containerization](./tutorial-2/README.md)                                 |    Team-3    |    Team-4    |
-| Team-3 |                                     [AWS Glue](./tutorial-3/README.md)                                     |                                                   Team-4                                                   |    Team-5    |
-| Team-4 |                          [Cloud Visualization Approaches](./tutorial-4/README.md)                          |                                                   Team-5                                                   |    Team-6    |
-| Team-5 |                                       [???](./tutorial-5/README.md)                                        |                                                   Team-6                                                   |    Team-1    |
-| Team-6 |                              [Spotify-integrated App](./tutorial-6/README.md)                              |                                                   Team-1                                                   |    Team-2    |
+| Team   |                                                    Presentation                                                     | Assignment 1 | Assignment 2 |
+|:-------|:-------------------------------------------------------------------------------------------------------------------:|:------------:|:------------:|
+| Team-1 |     [Deploying Federated Learning on Docker Containers Across Multiple Servers in AWS](./tutorial-1/README.md)      |    Team-2    |    Team-3    |
+| Team-2 |                                     [Containerization](./tutorial-2/README.md)                                      |    Team-3    |    Team-4    |
+| Team-3 |                                         [AWS Glue](./tutorial-3/README.md)                                          |                                                   Team-4                                                   |    Team-5    |
+| Team-4 |                              [Cloud Visualization Approaches](./tutorial-4/README.md)                               |                                                   Team-5                                                   |    Team-6    |
+| Team-5 |                                       [AWS SageMaker](./tutorial-5/README.md)                                       |                                                   Team-6                                                   |    Team-1    |
+| Team-6 |                                  [Spotify-integrated App](./tutorial-6/README.md)                                   |                                                   Team-1                                                   |    Team-2    |
 
 [](./tutorial-2/README.md)
 
